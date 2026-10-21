@@ -1,0 +1,7 @@
+{
+  "name": "plg-motogp-follow-up",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
